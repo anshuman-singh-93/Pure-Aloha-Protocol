@@ -1,0 +1,14 @@
+c:\users\iamroot\documents\visual studio 2015\Projects\aloha\aloha\bin\Debug\aloha.exe.config
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\bin\Debug\aloha.exe
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\bin\Debug\aloha.pdb
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha.csprojResolveAssemblyReference.cache
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\MainWindow.g.cs
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\App.g.cs
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha_MarkupCompile.cache
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha_MarkupCompile.lref
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\MainWindow.baml
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha.g.resources
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha.Properties.Resources.resources
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha.csproj.GenerateResource.Cache
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha.exe
+c:\Users\IamRoot\documents\visual studio 2015\Projects\aloha\aloha\obj\Debug\aloha.pdb
